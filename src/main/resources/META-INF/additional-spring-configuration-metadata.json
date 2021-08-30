@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "attach.folder.url",
+      "type": "java.lang.String",
+      "description": "Description for attach.folder.url."
+    },
+    {
+      "name": "attach.url",
+      "type": "java.lang.String",
+      "description": "Description for attach.url."
+    }
+  ] }
